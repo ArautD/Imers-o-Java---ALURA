@@ -1,0 +1,3 @@
+Key API NASA - WuJLw3p50iWXyv0CJ59FxpfMbsTtOsBa51dmah76
+
+.replaceAll("(@+)(.*).jpg$)", "$1.jpg")
